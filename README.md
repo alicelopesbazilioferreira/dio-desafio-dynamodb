@@ -1,3 +1,17 @@
+
+## Descrição do Desafio
+#### Utilizando o DynamoDB gerenciado pela AWS, através do AWS CLI, o desafio foi criar a Tabela "Music": com o atributo "Artist" sendo a Partition Key, "SongTitle" sendo a Sort Key, e ainda com os atributos "AlbumTitle" e "Year". E, após isso, criar alguns índices secundários para realização de pesquisas no banco.
+
+---
+
+
+&nbsp;
+
+
+
+
+
+
 ### Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
